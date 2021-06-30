@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://wallpapercave.com/wp/wp2883270.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+
+
+.info{
+    color:darkseagreen;
+    padding:20px;
+
+}
+
+.container{
+    padding:20px;
+
+}
+
+td.text-center{
+    color:white;
+}
+
+th.text-center{
+    color:white;
+}
+
+table.table-striped{
+    color:darkturquoise;
+}
+
+h1{
+    text-align: center;
+    color:gold;
+}

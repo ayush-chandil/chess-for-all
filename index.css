@@ -1,0 +1,25 @@
+body{
+    background-image: url("images/chessbackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+  text-align: center;
+  height:400px;
+  width:440px;
+  display:block;
+  font-size:15px;
+  
+
+}
+
+
+h1{
+    text-align: center;
+    color:blue;
+    font-size:90px;
+
+}
+

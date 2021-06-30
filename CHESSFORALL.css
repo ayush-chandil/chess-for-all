@@ -1,0 +1,72 @@
+
+body{
+    background-image: url("https://wallpapercave.com/wp/wp2883270.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+footer{
+    text-align: center;
+    color:red;
+}
+
+
+
+i{
+    color:cornsilk;
+    text-align: center;
+    
+}
+
+ .img-fluid{
+    padding-top:20%;
+} 
+
+#heading{
+    color:white;
+    text-align:center;
+    font-size:50px;
+}
+
+#opening{
+    border-radius:20px;
+    background-color:darkcyan;
+    display:inline-block;
+    
+}
+
+#middle{
+    border-radius:20px;
+    background-color:darkcyan;
+    display:inline-block;
+    margin-left:30%;
+
+}
+
+#endgame{
+    border-radius:20px;
+    background-color:darkcyan;
+    display:inline-block;
+    margin-left:30%;
+}
+
+#opening:hover{
+    background-color:green;
+    color:white;
+}
+
+#middle:hover{
+    background-color:green;
+    color:white;
+}
+
+#endgame:hover{
+    background-color:green;
+    color:white;
+}
+
+#chess{
+    text-align:center;
+    color:greenyellow;
+    font-size:20px;
+}
